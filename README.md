@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/ajmedford/catmap.svg)](https://travis-ci.org/ajmedford/catmap)
 [![Software License](https://img.shields.io/badge/license-GPLv3-brightgreen.svg?style=flat-square)](COPYING.txt)
+> [!WARNING]
+> This repository is no longer maintained. If you are looking for the numbers-solver implementation, please go [here](https://github.com/SUNCAT-Center/catmap).
 
 # CatMAP
 
